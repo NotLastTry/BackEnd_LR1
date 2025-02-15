@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|c:\\users\\admin\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\backend\\1\\backend_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|c:\\users\\admin\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\backend\\1\\backend_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|c:\\users\\admin\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\backend\\1\\backend_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\views\\home\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|solutionrelative:views\\home\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|c:\\users\\admin\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\backend\\1\\backend_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\views\\home\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|solutionrelative:views\\home\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|c:\\users\\admin\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\backend\\1\\backend_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|c:\\users\\admin\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\backend\\1\\backend_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E52A6D9E-72A9-4514-913C-3D0DC3C6DB50}|BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:55:45.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Home\\Page2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Home\\Page2.cshtml",
+              "RelativeToolTip": "Views\\Home\\Page2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T14:51:13.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Home\\Page1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Home\\Page1.cshtml",
+              "RelativeToolTip": "Views\\Home\\Page1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T14:51:07.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-15T14:49:53.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T14:45:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\2_\u0433\u043E\u0434\\4_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BackEnd\\1\\BackEnd_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T14:36:29.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
